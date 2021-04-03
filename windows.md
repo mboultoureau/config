@@ -1,5 +1,7 @@
 # Windows
 
+![Windows](windows.png)
+
 OS : Windows 10 Professionnel
 
 ## Applications
