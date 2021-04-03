@@ -55,3 +55,5 @@ Installation : version système 64 bits
 - Thème d'icone : [Sweet Paranoia Icon Theme](https://www.deviantart.com/niivu/art/Sweet-Paranoia-Icon-Theme-860564822)
 - Thème Windows : [Paranoid Android Windows 10 Themes > Pure Dark > Nebula](https://www.deviantart.com/niivu/art/Paranoid-Android-Windows-10-Themes-821696974)
 - Dock : [Nexus](https://www.winstep.net/nexus.asp)
+- Fond d'écran : [Neon Sunset 4k](https://www.deviantart.com/axiomdesign/art/Neon-Sunset-4k-709421733)
+- [Fond d'écran écran de verrouillage](https://wallpapercave.com/w/wp5267287)
