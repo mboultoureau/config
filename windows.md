@@ -44,6 +44,11 @@ Extensions :
 Configuration :
 - Désactivation des images d'arrière-plan sponsorisées
 
+## Configuration Spotify
+
+![Spotify](spotify.png)
+- Utilisation de [Spicetifly](https://github.com/khanhas/spicetify-cli)
+- Thème : [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish)
 
 ## Configuration VSCode
 
